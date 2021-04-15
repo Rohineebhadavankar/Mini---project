@@ -15,7 +15,7 @@
 # SWOT ANALYSIS
 ## 4W's and 1'H
 * Who:
-Educational instituteS
+Educational institutes
 
 * What:
 Manual Paper work becomes very labourous and time consuming task. For students.

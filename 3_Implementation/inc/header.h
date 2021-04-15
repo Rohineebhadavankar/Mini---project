@@ -6,7 +6,6 @@
  * 1. add record
  * 2. delete record
  * 3. modify record
- * 4. view record
  * 5. search record
  * 
  * @version 0.1
@@ -44,12 +43,6 @@ void menu();
  * 
  */
 void add();
-
-/**
- * @brief to view all the database entries available in file.
- * 
- */
-void view();
 
 /**
  * @brief to search a particular database among the whole database of students by typing the name.
